@@ -1,0 +1,46 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Dependencias de Node.js
+/node_modules
+
+# Archivos compilados
+/dist
+/build
+
+# Archivos de compilación y caché
+/.sass-cache
+/.vscode
+*.log
+
+# Archivos de configuración
+.env
+.env.local
+.env.*.local
+
+# IDE / editor de configuración
+.idea/
+.vscode/
+
+# Archivos de respaldo y temporales
+*~
+*.bak
+*.swp
+
+# Archivos específicos para ciertas herramientas o plataformas
+# Por ejemplo, si estás utilizando algún marco o biblioteca específica,
+# podrías agregar entradas aquí para ignorar archivos generados por esa herramienta.
+
+# Ignorar archivos de imagen generados automáticamente
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# Ignorar archivos de fuentes generados automáticamente
+*.woff
+*.woff2
+*.ttf
+*.eot
